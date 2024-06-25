@@ -1,5 +1,5 @@
 public class Exam {
-    public static void test() {
-        System.out.println("test");
+    public static void test(){
+        System.out.print("Exam test");
     }
 }
