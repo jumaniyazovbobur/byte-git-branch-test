@@ -9,4 +9,5 @@ public class Student {
     }
     public void test2(){}
     public void run() {}
+    public void test3(){}
 }
