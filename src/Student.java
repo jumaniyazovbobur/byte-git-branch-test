@@ -8,4 +8,5 @@ public class Student {
         System.out.println("Student main");
     }
     public void test2(){}
+    public void run() {}
 }
