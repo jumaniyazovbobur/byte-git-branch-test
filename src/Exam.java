@@ -1,5 +1,9 @@
 public class Exam {
-    public static void test(){
-        System.out.print("Exam test");
+    public void test(){
+        System.out.println("test");
     }
+    public void start(){
+        System.out.println("start");
+    }
+    ///
 }
