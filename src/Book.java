@@ -5,5 +5,6 @@ public class Book {
     public void test(){
         System.out.println("book");
 
+        System.out.println("Book test");
     }
 }
