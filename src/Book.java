@@ -1,9 +1,9 @@
 public class Book {
+    public void run(){
+        System.out.println("Book run");
+    }
+    public void test(){
+        System.out.println("book");
 
-    private String title;
-    private String author;
-    public Book(String title, String author) {}
-    public String getTitle() {
-        return title;
     }
 }
