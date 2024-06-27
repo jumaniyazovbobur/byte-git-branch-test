@@ -1,10 +1,12 @@
 public class Exam {
     public void test(){
-        System.out.println("Hello world");
-        System.out.println("Hello world2");
+        System.out.println("test");
     }
-
-    public void test2(){
-        System.out.println("Hello world");
+    public void start(){
+        System.out.println("start");
     }
+    public void start2(){
+        System.out.println("start2");
+    }
+    ///
 }
