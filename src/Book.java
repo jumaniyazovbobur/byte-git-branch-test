@@ -3,6 +3,7 @@ public class Book {
         System.out.println("Book run");
     }
     public void test(){
-
+        System.out.println("taskkk");
     }
+
 }
