@@ -5,6 +5,8 @@ public class Main {
         System.out.println("efwfewfwfweefw");
         System.out.println("efwfewfwfweefw");
         System.out.println("efwfewfwfweefw");
+        System.out.println("efwdfdfdffewfwfweefw");
+        System.out.println("efwfewdfdfdfdfdfdffwfweefw");
     }
 
 }
