@@ -8,5 +8,7 @@ public class Merge {
         System.out.println("TEst");
         System.out.println("TEst");
         System.out.println("TEst");
+        System.out.println("TEst");
+        System.out.println("TEst");
     }
 }
